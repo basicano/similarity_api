@@ -1,0 +1,49 @@
+[
+  {
+    "candidateName": "Arunabh",
+    "responses": [
+      {
+        "question": "Question 1",
+        "option": "Option 1"
+      },
+      {
+        "question": "Question 2",
+        "option": "Option 2"
+      },
+      {
+        "question": "Question 3",
+        "option": "Option 2"
+      },
+      {
+        "question": "Question 4",
+        "option": "Option 1"
+      }
+    ]
+  }
+][
+  {
+    "candidateName": "Ritika",
+    "responses": [
+      {
+        "question": "Question 1",
+        "option": "Option 1"
+      },
+      {
+        "question": "Question 2",
+        "option": "Option 2"
+      },
+      {
+        "question": "Question 3",
+        "option": "Option 3"
+      },
+      {
+        "question": "Question 4",
+        "option": "Option 1"
+      },
+      {
+        "question": "Question 17",
+        "option": "Option 1"
+      }
+    ]
+  }
+]
